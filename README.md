@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at <a href="https://sunchushiva.github.io/">Porfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://sunchu-shiva-portfolio.vercel.app/">Porfolio</a>
 
 - 📫 How to reach me **chhotahathi06@gmail.com**
 
