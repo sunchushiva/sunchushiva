@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **chhotahathi06@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1nupf6OgI4CPgmiVRIPOxxUb2NwuDJ45c/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1WcWvId2_Vcy00HXwdh8pszLEz27RP64W/view?usp=drive_link">Resume</a>
 
 - ⚡ Fun fact **A shrimp's heart is in its head.**
 
