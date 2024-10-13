@@ -3,16 +3,10 @@
 <h3 align="center">Aspiring MERN Stack Web Developer</h3>
 
 
-
 - 🌱 I’m currently learning **MERN Stack**
-
-- 👨‍💻 All of my projects are available at <a href="https://sunchu-shiva-portfolio.vercel.app/">Porfolio</a>
 
 - 📫 How to reach me **chhotahathi06@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1WcWvId2_Vcy00HXwdh8pszLEz27RP64W/view?usp=drive_link">Resume</a>
-
-- ⚡ Fun fact **A shrimp's heart is in its head.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
